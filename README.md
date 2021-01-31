@@ -1,4 +1,4 @@
-# alexa-turn-server-on-off
+# Alexa Home Server Power Manager
 
 This very simple project was made for enabling Alexa command to turn on and off my home server at home, just for sake of laziness ! :)
 
